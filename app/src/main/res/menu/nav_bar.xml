@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/toDo"
+        android:title="@string/to_do"
+        android:icon="@drawable/ic_to_do_list" />
+    <item android:id="@+id/brainBreak"
+        android:title="@string/brainBreak"
+        android:icon="@drawable/ic_brain_break" />
+    <item android:id="@+id/add"
+        android:title="@string/addNewLabel"
+        android:icon="@drawable/ic_add_new" />
+</menu>
